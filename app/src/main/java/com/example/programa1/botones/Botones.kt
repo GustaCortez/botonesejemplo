@@ -49,7 +49,7 @@ fun Botton2(){
         )
 
     ) {
-        Text(text = "My Button2", fontSize = 30.sp)
+        Text(text = "cambio de nombre de boton para ver si se dan los cambios:)", fontSize = 30.sp)
     }
 }
 //Boton texto
